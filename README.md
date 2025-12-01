@@ -2,7 +2,7 @@
 
 ## 👤 Autor
 
-* **Seu Nome/GitHub Username**: Gabriel matias
+ Gabriel Matias
 * **Desafio Original**: dio santander
 
 ## ✨ Descrição do Projeto
